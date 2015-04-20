@@ -1,0 +1,8 @@
+<FindBugsFilter>
+
+    <Match>
+      <Package name="~.*\..*" />
+      <Bug code="EI,EI2,BC" />
+    </Match>
+    
+</FindBugsFilter>
